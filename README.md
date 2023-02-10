@@ -10,3 +10,5 @@
 ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/acas.jpg)
 ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/box.jpg)
 ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/pslv.jpeg)
+![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/na.jpg)
+![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/wt.jpeg)
