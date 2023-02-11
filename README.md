@@ -14,7 +14,7 @@
 ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/wt.jpg)
 ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/btk.jpg)
 ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/spacex.jpg)
-![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/redux.jpeg)
+![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/redux.jpg)
 https://github.com/bradtraversy/spacex_launch_stats
 42
 PowerShell: $env:NODE_OPTIONS="--openssl-legacy-provider" – 
