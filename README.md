@@ -25,4 +25,4 @@ Hex
  
  ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/falcon.jpg)
  ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/sripthy.jpeg)
-  ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/IMG20230323205419.jpeg)
+  ![Test Imag 8](https://github.com/mosesnova/spacex_launch_stats/blob/master/IMG20230323205419.jpg)
